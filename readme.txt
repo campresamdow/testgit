@@ -23,3 +23,5 @@
   <SKU>LENOVO_MT_10UW_BU_Lenovo_FM_V53022ICB</SKU>
   <SubBrand />
 </MachineInformation>
+
+add something that no commit to res 
